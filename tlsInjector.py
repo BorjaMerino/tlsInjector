@@ -5,7 +5,7 @@ from colorama import Fore, Style
 
 __author__ = "Borja Merino"
 __mail__ = "bmerinofe@gmail.com"
-__version__ = "0.1"
+__version__ = "1.0"
 
 class colors:
     GREEN = '\033[92m'
